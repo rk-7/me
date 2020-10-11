@@ -190,7 +190,7 @@ SEO.defaultProps = {
   pathname: null,
   article: false,
   node: null,
-  locale: 'de-de',
+  locale: 'en-us',
 }
 
 const query = graphql`
